@@ -1,0 +1,5 @@
+langgraph
+transformers
+python-dotenv
+langchain-community
+langchain-huggingface
